@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Promote ERLC tickets.."];
+const statusMessages = ["Watching Promote ERLC tickts..","Watching Promote ERLC"];
 
 
 let currentIndex = 0;
